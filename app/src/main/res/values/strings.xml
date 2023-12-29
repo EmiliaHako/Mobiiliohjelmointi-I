@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Network settings</string>
+    <string name="title_activity_basics">BasicsActivity</string>
+    <string name="name_of_the_network">Name of the network:</string>
+    <string name="write_here">write here</string>
+    <string name="type">Type:</string>
+    <string name="back_to_mainmenu">Back to main menu</string>
+    <string name="back_to_main_menu">Back to main menu</string>
+    <string name="basics_info">Basics Info:</string>
+    <string name="encryption_info">Encryption Info:</string>
+</resources>

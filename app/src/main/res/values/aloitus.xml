@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aloitus">
+        <item>Basics</item>
+        <item>Encryption</item>
+        <item>Summary</item>
+    </string-array>
+</resources>
